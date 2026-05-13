@@ -1,7 +1,7 @@
 # Hi, I'm Abdullah Sheik 👋
 
 ### AI Infrastructure Engineer | Senior SRE | Platform Engineer
-**Calgary, Canada 🇨🇦 **
+**Calgary, Canada 🇨🇦**
 
 ---
 
